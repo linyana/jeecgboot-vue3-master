@@ -88,17 +88,17 @@ p {
 }
 
 .img1 {
-    background-image: url(../assets/images/1.jpg);
+    background-image: url(/resource/images/1.jpg);
     background-size: 100% 100%;
 }
 
 .img2 {
-    background-image: url(../assets/images/2.jpg);
+    background-image: url(/resource/images/2.jpg);
     background-size: 100% 100%;
 }
 
 .img3 {
-    background-image: url(../assets/images/3.jpg);
+    background-image: url(/resource/images/3.jpg);
     background-size: 100% 100%;
 }
 </style>

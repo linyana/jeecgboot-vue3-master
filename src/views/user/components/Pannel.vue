@@ -83,15 +83,15 @@ export default {
 }
 
 .pannel_box_img1 {
-    background-image: url(../assets/images/comprehensive-situational.png);
+    background-image: url(/resource/images/comprehensive-situational.png);
 }
 
 .pannel_box_img2 {
-    background-image: url(../assets/images/picture-layer.png);
+    background-image: url(/resource/images/picture-layer.png);
 }
 
 .pannel_box_img3 {
-    background-image: url(../assets/images/tool.png);
+    background-image: url(/resource/images/tool.png);
 }
 
 .pannel_box_img_bottom {
@@ -100,7 +100,7 @@ export default {
     top: 8px;
     height: 18px;
     width: 18px;
-    background-image: url(../assets/images/bottom.png);
+    background-image: url(/resource/images/bottom.png);
     background-size: 100% 100%;
 }
 

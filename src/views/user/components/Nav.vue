@@ -213,27 +213,27 @@ span.menu_box_img_span {
 }
 
 span.menu_box_img_span1 {
-    background-image: url(../assets/images/home.png);
+    background-image: url(/resource/images/home.png);
     background-size: 100% 100%;
 }
 
 span.menu_box_img_span2 {
-    background-image: url(../assets/images/information-display.png);
+    background-image: url(/resource/images/information-display.png);
     background-size: 100% 100%;
 }
 
 span.menu_box_img_span3 {
-    background-image: url(../assets/images/3Dmodel.png);
+    background-image: url(/resource/images/3Dmodel.png);
     background-size: 100% 100%;
 }
 
 span.menu_box_img_span4 {
-    background-image: url(../assets/images/data-analysis.png);
+    background-image: url(/resource/images/data-analysis.png);
     background-size: 100% 100%;
 }
 
 span.menu_box_img_span5 {
-    background-image: url(../assets/images/comprehensive-situational.png);
+    background-image: url(/resource/images/comprehensive-situational.png);
     background-size: 100% 100%;
 }
 
@@ -247,7 +247,7 @@ span.menu_box_text_span {
     top: 10px;
     width: 40px;
     height: 40px;
-    background-image: url(../assets/images/user.png);
+    background-image: url(../../../public/resource/images/user.png);
     background-size: 100% 100%;
 }
 

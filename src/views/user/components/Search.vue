@@ -2,7 +2,7 @@
     <div id="search">
         <input type="text" id="search_input" placeholder="搜索" />
         <button id="search_span">
-            <img src="../assets/images/search.png" alt="图片加载失败" />
+            <img src="/resource/images/search.png" alt="图片加载失败" />
         </button>
     </div>
 </template>
