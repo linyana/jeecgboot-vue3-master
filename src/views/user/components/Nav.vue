@@ -200,6 +200,7 @@ a {
 }
 
 .menu_box:hover {
+    z-index: 99999999;
     background: rgba(255, 255, 255, 0.1);
     border-bottom: 2px solid white;
 }
