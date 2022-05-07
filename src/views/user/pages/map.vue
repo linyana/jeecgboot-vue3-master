@@ -27,7 +27,7 @@
   #map {
     height: calc(100% + 60px);
     width: 100%;
-    background-image: url(../../../public/resource/images/map.png);
+    background-image: url(/resource/images/map.png);
     background-size: 100% 100%;
   }
 </style>

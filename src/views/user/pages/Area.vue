@@ -1,4 +1,5 @@
 <template>
+    <Nav />
     <div id="area">
         <div class="area_card">
             <div class="area_card_left area_img img1"></div>
@@ -37,68 +38,72 @@
 </template>
 
 <script>
-export default {};
+import Nav from '../components/Nav.vue';
+
+export default {
+  components: { Nav },
+};
 </script>
 
 <style scoped>
 #area {
-    width: 100%;
+  width: 100%;
 }
 
 .area_card {
-    position: relative;
-    width: 100%;
-    height: 500px;
-    margin: 20px 0;
+  position: relative;
+  width: 100%;
+  height: 500px;
+  margin: 20px 0;
 }
 
 .area_card_left {
-    position: absolute;
-    left: 0;
-    height: 100%;
+  position: absolute;
+  left: 0;
+  height: 100%;
 }
 
 .area_card_right {
-    position: absolute;
-    right: 0;
-    height: 100%;
+  position: absolute;
+  right: 0;
+  height: 100%;
 }
 
 h2 {
-    width: 80%;
-    margin: 20px 0;
-    margin-left: 10%;
-    font-weight: 700;
-    font-size: 30px;
+  width: 80%;
+  margin: 20px 0;
+  margin-left: 10%;
+  font-weight: 700;
+  font-size: 30px;
 }
 
 p {
-    width: 80%;
-    text-indent: 2em;
-    margin-left: 10%;
-    line-height: 30px;
+  width: 80%;
+  text-indent: 2em;
+  margin-left: 10%;
+  line-height: 30px;
 }
 
 .area_img {
-    width: 60%;
+  width: 60%;
 }
 
 .area_text {
-    width: 40%;
+  width: 40%;
 }
 
 .img1 {
-    background-image: url(/resource/images/1.jpg);
-    background-size: 100% 100%;
+  background-image: url(/resource/images/1.jpg);
+  background-size: 100% 100%;
 }
 
 .img2 {
-    background-image: url(/resource/images/2.jpg);
-    background-size: 100% 100%;
+  background-image: url(/resource/images/2.jpg);
+  background-size: 100% 100%;
 }
 
 .img3 {
-    background-image: url(/resource/images/3.jpg);
-    background-size: 100% 100%;
+  background-image: url(/resource/images/3.jpg);
+  background-size: 100% 100%;
 }
 </style>
