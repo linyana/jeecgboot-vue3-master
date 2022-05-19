@@ -128,30 +128,8 @@
                     </div>
                 </div>
             </div>
-            <router-link target="_blank" to="./information">
-                <div class="menu_box">
-                    <span class="menu_box_img_span menu_box_img_span5"></span>
-                    <span class="menu_box_text_span">信息发布</span>
-                </div>
-            </router-link>
-            <router-link target="_blank" to="./area">
-                <div class="menu_box">
-                    <span class="menu_box_img_span menu_box_img_span5"></span>
-                    <span class="menu_box_text_span">区域展示</span>
-                </div>
-            </router-link>
-            <router-link target="_blank" to="./dataQuery">
-                <div class="menu_box">
-                    <span class="menu_box_img_span menu_box_img_span5"></span>
-                    <span class="menu_box_text_span">数据查询</span>
-                </div>
-            </router-link>
-            <router-link target="_blank" to="./feedback">
-                <div class="menu_box">
-                    <span class="menu_box_img_span menu_box_img_span5"></span>
-                    <span class="menu_box_text_span">反馈</span>
-                </div>
-            </router-link>
+
+
         </div>
         <div class="user"></div>
     </div>
