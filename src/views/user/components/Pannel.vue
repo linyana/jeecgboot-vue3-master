@@ -16,7 +16,7 @@
             <div class="pannel_box_click_content" v-if="isClicked">
                 <div class="pannel_box_click_content_card">图上量算</div>
                 <div class="pannel_box_click_content_card">地图导航</div>
-                <div class="pannel_box_click_content_card">图上量算</div>2
+                <div class="pannel_box_click_content_card">图上量算</div>
                 <div class="pannel_box_click_content_card">地图导航</div>
                 <div class="pannel_box_click_content_card">图上量算</div>
                 <div class="pannel_box_click_content_card">地图导航</div>

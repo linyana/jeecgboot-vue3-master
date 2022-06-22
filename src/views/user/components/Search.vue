@@ -13,42 +13,42 @@ export default {};
 
 <style scoped>
 #search {
-    position: absolute;
-    left: 20px;
-    top: 80px;
-    width: 340px;
+  position: absolute;
+  left: 20px;
+  top: 80px;
+  width: 340px;
 }
 
 input#search_input {
-    width: 280px;
-    height: 40px;
-    text-indent: 0.6em;
-    font-size: 20px;
-    outline: none;
-    border: 2px solid #0a8dfc;
-    background-color: rgba(23, 65, 105, 0.5);
-    color: #dfe1e1;
+  width: 280px;
+  height: 40px;
+  text-indent: 0.6em;
+  font-size: 20px;
+  outline: none;
+  border: 2px solid #0a8dfc;
+  background-color: rgba(23, 65, 105, 0.5);
+  color: #dfe1e1;
 }
 
 input#search_input:focus {
-    outline: none;
-    border: 2px solid #0a8dfc;
+  outline: none;
+  border: 2px solid #0a8dfc;
 }
 
 button#search_span {
-    cursor: pointer;
-    vertical-align: top;
-    display: inline-block;
-    width: 55px;
-    height: 44px;
-    text-align: center;
-    border: none;
-    background-color: #0a8dfc;
+  cursor: pointer;
+  vertical-align: top;
+  display: inline-block;
+  width: 50px;
+  height: 40px;
+  text-align: center;
+  border: none;
+  background-color: #0a8dfc;
 }
 
 button#search_span img {
-    margin-top: 8px;
-    width: 30px;
-    height: 30px;
+  margin-left: 10px;
+  width: 30px;
+  height: 30px;
 }
 </style>
